@@ -30,6 +30,20 @@ section {
 .ml-100{
     margin-left: 100px;
 }
+.hero-area h1{
+    position: relative;
+    padding-left: 15px;
+}
+.hero-area h1::before {
+    position: absolute;
+    content: "";
+    background: #f19393;
+    top: 26px;
+    left: 0;
+    width: 6px;
+    height: 130px;
+    border-radius: 5px;
+}
 
 .hero-bg img {
     width: 400px;
