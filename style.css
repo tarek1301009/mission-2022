@@ -63,7 +63,6 @@ body {
 .single-box {
     width: 360px;
     height: 376px;
-    border: 1px solid;
     margin: 0 30px;
     padding: 0 20px;
 }
@@ -105,4 +104,15 @@ footer h2 {
 footer h2 span {
     font-style: normal;
     margin-left: 10px;
+}
+
+.member-bg {
+    width: 30%;
+    margin-right: 2%;
+}
+
+
+.member-bg img {
+    width: 125%;
+    height: 530px;
 }
