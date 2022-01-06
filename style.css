@@ -2,7 +2,10 @@ body {
     margin: 0 auto;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    width: 1360px;
+}
+
+section {
+    padding: 0px 61px;
 }
 
 .d-flex {
