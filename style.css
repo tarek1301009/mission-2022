@@ -11,6 +11,7 @@ section {
 .d-flex {
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 
 .span-color{
@@ -109,12 +110,6 @@ footer h2 span {
     margin-left: 10px;
 }
 
-.member-bg {
-    width: 30%;
-    margin-right: 5%;
-}
-
 .member-bg img {
-    width: 120%;
-    height: 530px;
+    width: 100%;
 }
