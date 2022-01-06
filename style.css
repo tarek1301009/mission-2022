@@ -1,0 +1,108 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    width: 1360px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+.span-color{
+    color: #85a135 ;
+}
+
+.btn-bg {
+    background-color: #9CC91A;
+    border-radius: 5px;
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
+
+.ml-100{
+    margin-left: 100px;
+}
+
+.hero-bg img {
+    width: 400px;
+    border-radius: 30px;
+}
+
+.hero-content {
+    width: 40%;
+    margin: 0 10%;
+}
+
+.hero-content h1 {
+    font-size: 60px;
+    /* line-height: 40px; */
+}
+
+.hero-content p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.hero-content a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 38px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.single-box img {
+    width: 140px;
+}
+
+.single-box {
+    width: 360px;
+    height: 376px;
+    border: 1px solid;
+    margin: 0 30px;
+    padding: 0 20px;
+}
+.single-box {
+    border-radius: 30px;
+}
+.single-box p {
+    color: #424242;
+}
+
+.single-box.mission {
+    background: #a19595;
+}
+
+.single-box.vission {
+    background: #f19393;
+}
+
+.single-box.goal {
+    background: #d3bb79;
+}
+
+.mission h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+footer h2 {
+    font-style: italic;
+}
+
+footer h2 span {
+    font-style: normal;
+    margin-left: 10px;
+}
